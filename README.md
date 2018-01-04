@@ -26,7 +26,7 @@
 **git status**
 >Permet de voir les fichiers en attentes dans l'index
 
-**git merge [branche]**
+**git merge [brache]**
 >Permet de combiner l'historique d'une branche dans la branche courante
 
 **git rm [nom fichier]**

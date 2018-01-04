@@ -17,7 +17,7 @@
 **git branch [nom branche]**
 >Permet de créer une nouvelle branche
 
-**git checkout [nom bracnhe]**
+**git checkout [nom branche]**
 >Permet de se déplacer entre les branches
 
 **git clone [url]**
